@@ -1,0 +1,12 @@
+c
+stack1
+a
+stack1
+
+c
+stack2
+b
+stack1, stack2
+
+a
+stack2
